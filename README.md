@@ -25,7 +25,7 @@ Edit `src/config.ts`:
 
 ```typescript
 export const CONFIG = {
-  yourName: "Karthik",
+  yourName: "",
   openingLine: "Today is Propose Day.",
   buildupLines: ["I tried to keep this normal.", "That failed.", "So here we are."],
   proposalLine1: "On this Propose Day...",

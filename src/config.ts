@@ -5,7 +5,7 @@
 
 export const CONFIG = {
   // Your name (shown on the celebration screen)
-  yourName: "Karthik",
+  yourName: "",
 
   // ── Opening Screen (Scene 1) ───────────────────────────────
   openingLine: "Today is Propose Day.",
